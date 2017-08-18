@@ -102,6 +102,11 @@ table.index_table {
     }
   }
 
+  .table_actions {
+    overflow-x: scroll; 
+    white-space: nowrap;
+  }
+
   .view_link,
   .edit_link,
   .delete_link {
